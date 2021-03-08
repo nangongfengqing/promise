@@ -1,1 +1,3 @@
-# Promise polyfill 手写Promise
+# Promise polyfill
+
+# 手写 Promise
