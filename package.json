@@ -1,0 +1,26 @@
+{
+  "name": "promise",
+  "version": "1.0.0",
+  "description": "promise polyfill",
+  "main": "index.js",
+  "scripts": {
+    "test": "promises-aplus-tests Promise.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nangongfengqing/promise.git"
+  },
+  "keywords": [
+    "promise",
+    "polyfill"
+  ],
+  "author": "nangongfengqing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nangongfengqing/promise/issues"
+  },
+  "homepage": "https://github.com/nangongfengqing/promise#readme",
+  "devDependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  }
+}
