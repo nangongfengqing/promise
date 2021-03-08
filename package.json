@@ -1,5 +1,5 @@
 {
-  "name": "promise",
+  "name": "pap-promise-polyfill",
   "version": "1.0.0",
   "description": "promise polyfill",
   "main": "index.js",
