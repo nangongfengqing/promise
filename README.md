@@ -1,3 +1,3 @@
 # Promise polyfill
 
-## Promises/A+ Promise实现
+## Promises/A+规范实现
